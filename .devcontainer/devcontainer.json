@@ -1,0 +1,5 @@
+{
+    "name": "CRUD Node",
+    "appPort": [3000,4200],
+    "postCreateCommand": "bash .devcontainer/postCreate.sh"
+  }
